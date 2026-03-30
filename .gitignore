@@ -1,0 +1,16 @@
+# Build artifacts
+bin/
+obj/
+
+# Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+
+# OS files
+.DS_Store
+Thumbs.db
